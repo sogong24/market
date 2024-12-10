@@ -24,6 +24,10 @@
 ## High-level Architecture
 
 ## Technology Stack
+- DataBase : PostgreSQL
+- FrontEnd : React
+- Server : Express
+
 
 ## Installation Guideline
 
