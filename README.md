@@ -39,24 +39,40 @@
 
 ## Installation Guideline
 
-## Project Deliverables:
+### Frontend
 
-- [요구사항 분석 명세서](https://github.com/sogong24/market/tree/main/artifacts/srs)
+### Backend
+
+1. Install and run [Docker Desktop](https://www.docker.com)
+2. Go to the project repository
+3. Run `npm install`
+4. Run `docker-compose up --build`
+
+## Project Deliverables
+
+- [요구사항 분석 명세서](https://github.com/sogong24/market/blob/main/artifacts/srs/srs-v1.2.pdf)
 - Architecture 및 Design Documents
-    - [Software Architecture](https://github.com/sogong24/market/blob/main/artifacts/high-level-architecure)
-    - [Software Design](https://github.com/sogong24/market/tree/main/artifacts/uml-design)
-    - [UI Design](https://github.com/sogong24/market/tree/main/artifacts/ui-design)
-- [Coding Standard](https://github.com/sogong24/market/tree/main/artifacts/coding-standard)
+    - [Software Architecture](https://github.com/sogong24/market/blob/main/artifacts/high-level-architecture/high-level-architecture-v1.1.pdf)
+    - Software Design
+        - [Static Class Diagram](https://github.com/sogong24/market/blob/main/artifacts/uml-design/static-class-diagram.uxf)
+        - [Sequence Diagram](https://github.com/sogong24/market/blob/main/artifacts/uml-design/sequence-diagram.uxf)
+    - UI Design
+        - [Figma](https://github.com/sogong24/market/blob/main/artifacts/ui-design/ui-design.fig)
+        - [PNG](https://github.com/sogong24/market/blob/main/artifacts/ui-design/ui-design.png)
+    - [Coding Standard](https://github.com/sogong24/market/blob/main/artifacts/coding-standard/coding-standard-v1.1.pdf)
 - Source Code
     - [Frontend](https://github.com/sogong24/front)
+        - branch description
     - [Backend](https://github.com/sogong24/backend)
-- [테스트 케이스 및 결과](https://github.com/sogong24/market/tree/main/artifacts/test-cases)
+        - branch description
+- [테스트 케이스 및 결과](https://github.com/sogong24/market/blob/main/artifacts/test-cases/test-cases-v1.4.xlsx)
 
 ## Repository Structure
 - market: 프로젝트 개괄
     - /artifacts: 프로젝트 진행에 사용한 요소들 
     - /classroom: 교수님과 소통용
     - /proposal: 초기 계획안
+    - /reports: 프레젠테이션 및 데모
     - README: 최종 보고서
 
 - backend: 백엔드
