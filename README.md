@@ -43,7 +43,7 @@
 
 - [요구사항 분석 명세서](https://github.com/sogong24/market/tree/main/artifacts/srs)
 - Architecture 및 Design Documents
-    - [Software Architecture](https://github.com/sogong24/market/blob/main/artifacts/high-level-architecure.pptx)
+    - [Software Architecture](https://github.com/sogong24/market/blob/main/artifacts/high-level-architecure)
     - [Software Design](https://github.com/sogong24/market/tree/main/artifacts/uml-design)
     - [UI Design](https://github.com/sogong24/market/tree/main/artifacts/ui-design)
 - [Coding Standard](https://github.com/sogong24/market/tree/main/artifacts/coding-standard)
