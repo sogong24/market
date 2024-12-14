@@ -38,7 +38,9 @@
     - [Software Design](https://github.com/sogong24/market/tree/main/artifacts/uml-design)
     - [UI Design](https://github.com/sogong24/market/tree/main/artifacts/ui-design)
 - [Coding Standard](https://github.com/sogong24/market/tree/main/artifacts/coding-standard)
-- Source Code: [frontend](https://github.com/sogong24/front), [backend](https://github.com/sogong24/backend)
+- Source Code
+    - [Frontend](https://github.com/sogong24/front)
+    - [Backend](https://github.com/sogong24/backend)
 - [테스트 케이스 및 결과](https://github.com/sogong24/market/tree/main/artifacts/test-cases)
 
 ## Repository Structure
@@ -59,7 +61,7 @@
     - /tests: 테스트 코드
     - /uploads: 물리적 필기 파일이 저장될 경로
 
-frontend: 프론트엔드
+- frontend: 프론트엔드
 
 ## Project Team Members
 
