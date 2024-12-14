@@ -12,6 +12,13 @@
 
 ## Highlighted Features
 
+- 필기 업로드/다운로드: 사용자는 PDF 형식의 강의 필기를 업로드할 수 있으며, 포인트를 사용해 필기를 다운로드 받을 수 있음
+- 검색 필터링: 과목명, 교수명, 학년/학기별로 필기를 검색 및 필터링할 수 있어 필요한 자료를 손쉽게 찾을 수 있음
+- 포인트 기반 시스템: 필기 업로드 시 포인트를 획득하고, 다운로드 시 포인트를 사용하도록 하여 적극적인 참여를 유도
+- 평가 시스템: 다운로드한 필기에 대해 좋아요/싫어요로 평가할 수 있어, 양질의 콘텐츠가 유지되도록 함
+
+[Demo video](https://github.com/sogong24/market/blob/main/reports/demo.mp4)
+
 ## Project Constraints
 
 - 웹 브라우저 기반: Chrome 지원
@@ -22,6 +29,8 @@
 - 필기 범위: 컴퓨터과학부에서 진행하는 전공과목으로 제한
 
 ## High-level Architecture
+
+
 
 ## Technology Stack
 - Frontend: React
