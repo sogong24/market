@@ -30,7 +30,7 @@
 
 ## High-level Architecture
 
-
+![image](https://drive.google.com/uc?export=view&id=16e7AyQfUc2vmwBfWT914vwiSi1gy8joW)
 
 ## Technology Stack
 - Frontend: React
