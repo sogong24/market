@@ -64,7 +64,14 @@
     - [Frontend](https://github.com/sogong24/front)
         - branch description
     - [Backend](https://github.com/sogong24/backend)
-        - branch description
+        - initial test: 개발 초기 각 개발 환경에서 잘 동작하는지 확인하는 테스트
+        - connect-front: 프론트엔드와의 연동
+        - login-signin: 로그인 및 회원가입 기능 구현
+        - upload-note: 필기 업로드 기능 구현
+        - download-note: 필기 다운로드 기능 구현
+        - handle-notes: 필기 업로드 / 다운로드 기능을 제외한 나머지 기능 구현
+        - use-password-hash: 로그인 및 회원가입에서 비밀번호에 해시 함수 추가
+        - temp: 임시로 필요한 작업 수행
 - [테스트 케이스 및 결과](https://github.com/sogong24/market/blob/main/artifacts/test-cases/test-cases-v1.4.xlsx)
 
 ## Repository Structure
