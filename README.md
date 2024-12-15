@@ -64,7 +64,7 @@
     - [Frontend](https://github.com/sogong24/front)
         - branch description
     - [Backend](https://github.com/sogong24/backend)
-        - initial test: 개발 초기 각 개발 환경에서 잘 동작하는지 확인하는 테스트
+        - initial-test: 개발 초기 각 개발 환경에서 잘 동작하는지 확인하는 테스트
         - connect-front: 프론트엔드와의 연동
         - login-signin: 로그인 및 회원가입 기능 구현
         - upload-note: 필기 업로드 기능 구현
