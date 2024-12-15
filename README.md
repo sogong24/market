@@ -41,10 +41,10 @@
 
 ### Frontend
 
-1. Run 'npm install create-react-app frontend'
-2. Run 'npm install react-router-dom'
-3. Run 'npm install -D tailwindcss postcss autoprefixer'
-4. Run 'npx tailwindcss init -p'
+1. Run `npm install create-react-app frontend`
+2. Run `npm install react-router-dom`
+3. Run `npm install -D tailwindcss postcss autoprefixer`
+4. Run `npx tailwindcss init -p`
 5. Add path to tailwind.config.js
    ```
    /** @type {import('tailwindcss').Config} */
@@ -59,9 +59,14 @@
     }
     ```
 6. Add tailwind directives to CSS file (src/index.css)
-7. Run 'npm install react-icons'
-8. Go to the project repository
-9. Run 'npm start'
+   ```
+   @tailwind base;
+   @tailwind components;
+   @tailwind utilities;
+   ```
+8. Run `npm install react-icons`
+9. Go to the project repository
+10. Run `npm start`
 ### Backend
 
 1. Install and run [Docker Desktop](https://www.docker.com)
