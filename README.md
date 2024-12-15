@@ -121,13 +121,13 @@
     - /uploads: 물리적 필기 파일이 저장될 경로
 
 - frontend: 프론트엔드
-   - api/ API 통신 로직 및 데이터 처리를 담당하는 디렉토리.
-
-   - components/ 재사용 가능한 UI 컴포넌트를 저장하는 디렉토리.
-
-   - hooks/ React의 Custom Hooks를 정의하는 디렉토리.
-
-   - pages/ 페이지 단위의 컴포넌트를 저장하는 디렉토리. 예를 들어, 로그인 페이지, 마이페이지, 게시물 작성 페이지 등이 여기에 포함.
+   - /api: API 통신 로직 및 데이터 처리를 담당하는 디렉토리
+   - /components: 재사용 가능한 UI 컴포넌트를 저장하는 디렉토리
+        - /common: 공통된 layout 설정
+        - /postCreate: 노트 기능이 적용된 페이지의 layout 설정
+        - /search: 검색 기능이 적용된 페이지의 공통된 layout 설정 
+   - /hooks: React의 Custom Hooks를 정의하는 디렉토리
+   - /pages: 페이지 단위의 컴포넌트를 저장하는 디렉토리. 예를 들어, 로그인 페이지, 마이페이지, 게시물 작성 페이지 등이 여기에 포함
    
    **Repository Branches**
    - main 역할: 배포 준비가 된 안정적인 코드를 저장하는 기본 브랜치. 업데이트 주기: Pull Request를 통해서만 업데이트되며, 주요 기능이 완료된 후 병합.
