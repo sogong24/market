@@ -66,6 +66,7 @@
     - [Backend](https://github.com/sogong24/backend)
         - branch description
 - [테스트 케이스 및 결과](https://github.com/sogong24/market/blob/main/artifacts/test-cases/test-cases-v1.4.xlsx)
+- [API Documentation](https://github.com/sogong24/market/blob/main/artifacts/api-documentation/api-documentation-v1.0.pdf)
 
 ## Repository Structure
 - market: 프로젝트 개괄
