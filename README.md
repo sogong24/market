@@ -73,7 +73,7 @@
         - use-password-hash: 로그인 및 회원가입에서 비밀번호에 해시 함수 추가
         - temp: 임시로 필요한 작업 수행
 - [테스트 케이스 및 결과](https://github.com/sogong24/market/blob/main/artifacts/test-cases/test-cases-v1.4.xlsx)
-- [API Documentation](https://github.com/sogong24/market/blob/main/artifacts/api-documentation/api-documentation-v1.0.pdf)
+- [API Documentation](https://github.com/sogong24/market/blob/main/artifacts/api-documentation/api-documentation-v1.1.pdf)
 
 ## Repository Structure
 - market: 프로젝트 개괄
